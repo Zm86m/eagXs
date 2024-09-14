@@ -3,7 +3,8 @@ window.eaglercraftXOpts = () => ({
   // joinServer: "ws" + window.location.href.slice(4),
   // assetsURI: "custom.epk",
 	servers: [
-		{ addr: "ws" + window.location.href.slice(4), name: "EaglercraftX Server" }
+		{ addr: "ws" + "s://zentic.cc/", name: "Zentic" },
+		{ addr: "ws" + "s://pps.p", name: "Osiah" }
 	]
 });
 // document.title = "My Original Server Name:tm:";
